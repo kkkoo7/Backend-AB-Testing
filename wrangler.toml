@@ -1,0 +1,6 @@
+name = "workers-ab-testing"
+type = "webpack"
+account_id = "a94fb6e3852d6d0959c2e8161fb9ba0d"
+workers_dev = true
+route = ""
+zone_id = ""
