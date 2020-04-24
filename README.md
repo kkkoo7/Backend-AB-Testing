@@ -1,3 +1,5 @@
+Deployed Application's URL: https://workers-ab-testing.kulendra.workers.dev/
+
 # Cloudflare Workers Internship Application: Full-Stack
 
 ## What is it?
