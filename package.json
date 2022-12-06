@@ -11,7 +11,7 @@
   "author": "Kristian Freeman <kristian@kristianfreeman.com>",
   "license": "MIT",
   "devDependencies": {
-    "qs": "^6.7.0",
+    "qs": "^6.9.7",
     "prettier": "^1.18.2"
   }
 }
